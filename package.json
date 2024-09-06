@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "http://atkandi111.github.io/frontend",
   "scripts": {
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
