@@ -1,10 +1,10 @@
 import './App.css'
 
-import Header from '@/components/header'
-import PrimaryArticles from '@/components/primary-articles'
-import SecondaryArticles from '@/components/secondary-articles'
-import TertiaryArticles from '@/components/tertiary-articles'
-import Footer from '@/components/footer'
+import Header from './components/header'
+import PrimaryArticles from './components/primary-articles'
+import SecondaryArticles from './components/secondary-articles'
+import TertiaryArticles from './components/tertiary-articles'
+import Footer from './components/footer'
 
 function App() {
   return (
